@@ -1,29 +1,27 @@
-﻿# s&p500analysis
+﻿# S&P 500 Analysis
  
  ![S P500_Python_Analysis](https://user-images.githubusercontent.com/77911412/183294876-8b19306c-3d63-448e-9dcb-77c62dc6b774.png)
 
 
 ## Table of Contents 
-*[*technologies](#Technologies) 
-*[*setup](#setup)
+*[*Technologies](#Technologies) 
+*[*Setup](#setup)
 
 ## General information
-This Youtube Python Analysis that was done shows:
-1. Youtube sentiment polarity(positive and negative)
-2. Emoji analysis
-3. Most Liked Category
-4. Most Engaging Audiences
-5. Trending Videos
-6. Checking to see of punctuations affect youtube algorithm.
+This S&P 500  Python Analysis that was done shows:
+1. Daily return analysis.
+2. Closing Price of stock and volume trading.
+3. Price comparism for each stock
+4. value at risk analysis
 
 ## Technologies
 Project is created with:
 * Plotpy
 * Pandas
 * Seaborn
-* Boxplot
-* Textblob
-* WordCloud
+* Numpy
+* Matplotlib
+
 
 ## Setup
 
